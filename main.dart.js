@@ -41209,7 +41209,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["nativeGoogleFirst",!q.c],t.N,t.X))
 o.toString
 s=2
@@ -41219,7 +41219,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rX)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rX)
 case 3:n=b
 m=A.ai(n.b.U(0,"nativeGoogleFirst"),n.a)
 q.c=m
@@ -41244,7 +41244,7 @@ m=(p==null?$.C=$.a6():p).W(0,"[DEFAULT]")
 p=$.aV()
 A.a3(m,p,!1)
 o=A.af(new A.a4(m))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["googleFailData",q.f],t.N,t.X))
 n.toString
 s=2
@@ -41254,7 +41254,7 @@ m=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(m,p,!1)
 p=A.af(new A.a4(m))
 s=3
-return A.l(A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$on)
+return A.l(A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$on)
 case 3:l=d
 q.f=A.ai(l.b.U(0,"googleFailData"),l.a)
 q.X()
@@ -41277,7 +41277,7 @@ m=(p==null?$.C=$.a6():p).W(0,"[DEFAULT]")
 p=$.aV()
 A.a3(m,p,!1)
 o=A.af(new A.a4(m))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["facebookFailData",q.r],t.N,t.X))
 n.toString
 s=2
@@ -41287,7 +41287,7 @@ m=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(m,p,!1)
 p=A.af(new A.a4(m))
 s=3
-return A.l(A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$oj)
+return A.l(A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$oj)
 case 3:l=d
 q.r=A.ai(l.b.U(0,"facebookFailData"),l.a)
 q.X()
@@ -41300,7 +41300,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["waitingTime",a],t.N,t.X))
 o.toString
 s=2
@@ -41310,7 +41310,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t6)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t6)
 case 3:n=c
 q.y=A.ai(n.b.U(0,"waitingTime"),n.a)
 q.X()
@@ -41323,7 +41323,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["adSequence",q.x],t.N,t.X))
 o.toString
 s=2
@@ -41333,7 +41333,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$oe)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$oe)
 case 3:n=b
 q.x=A.ai(n.b.U(0,"adSequence"),n.a)
 q.X()
@@ -41361,7 +41361,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isAdLoaderEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -41371,7 +41371,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rD)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rD)
 case 3:n=c
 q.w=A.ai(n.b.U(0,"isAdLoaderEnabled"),n.a)
 q.X()
@@ -41385,7 +41385,7 @@ j=$.aV()
 A.a3(i,j,!1)
 l=A.af(new A.a4(i))
 s=3
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qm)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qm)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -41409,7 +41409,7 @@ i=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(i,j,!1)
 j=A.af(new A.a4(i))
 s=7
-return A.l(A.ag(j,j.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["isAdLoadedEnabled",!1,"adSequence",[],"waitingTime",1],t.N,t.z)),$async$qm)
+return A.l(A.ag(j,j.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["isAdLoadedEnabled",!1,"adSequence",[],"waitingTime",1],t.N,t.z)),$async$qm)
 case 7:q=!0
 s=1
 break
@@ -41423,7 +41423,7 @@ j=$.aV()
 A.a3(i,j,!1)
 l=A.af(new A.a4(i))
 s=3
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qo)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qo)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -41443,7 +41443,7 @@ i=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(i,j,!1)
 j=A.af(new A.a4(i))
 s=7
-return A.l(A.ag(j,j.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["moreAppLinks",[],"moreAppImages",[],"moreAppEnabled",[]],t.N,t.z)),$async$qo)
+return A.l(A.ag(j,j.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["moreAppLinks",[],"moreAppImages",[],"moreAppEnabled",[]],t.N,t.z)),$async$qo)
 case 7:q=!0
 s=1
 break
@@ -41512,7 +41512,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["moreAppLinks",q.z,"moreAppImages",q.Q,"moreAppEnabled",q.as],t.N,t.X))
 o.toString
 s=2
@@ -41522,7 +41522,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$mc)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$mc)
 case 3:n=b
 m=n.b
 p=m.U(0,"moreAppLinks")
@@ -41541,7 +41541,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isCloseButtonAdEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -41551,7 +41551,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rL)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rL)
 case 3:n=c
 q.dy=A.ai(n.b.U(0,"isCloseButtonAdEnabled"),n.a)
 q.X()
@@ -41565,7 +41565,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["backQurekaOnly",a],t.N,t.X))
 o.toString
 s=2
@@ -41575,7 +41575,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rZ)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rZ)
 case 3:n=c
 q.fr=A.ai(n.b.U(0,"backQurekaOnly"),n.a)
 A.ex("Done")
@@ -41592,7 +41592,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["qurekaLink1",a],t.N,t.X))
 l.toString
 s=3
@@ -41602,7 +41602,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t_)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t_)
 case 4:k=c
 q=p.CW=A.ai(k.b.U(0,"qurekaLink1"),k.a)
 s=1
@@ -41619,7 +41619,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["qurekaLink2",a],t.N,t.X))
 l.toString
 s=3
@@ -41629,7 +41629,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t0)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t0)
 case 4:k=c
 q=p.cx=A.ai(k.b.U(0,"qurekaLink2"),k.a)
 s=1
@@ -41646,7 +41646,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["qurekaLink3",a],t.N,t.X))
 l.toString
 s=3
@@ -41656,7 +41656,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t1)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t1)
 case 4:k=c
 q=p.cy=A.ai(k.b.U(0,"qurekaLink3"),k.a)
 s=1
@@ -41673,7 +41673,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["qurekaLink4",a],t.N,t.X))
 l.toString
 s=3
@@ -41683,7 +41683,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t2)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t2)
 case 4:k=c
 q=p.db=A.ai(k.b.U(0,"qurekaLink4"),k.a)
 s=1
@@ -41700,7 +41700,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["qurekaLink5",a],t.N,t.X))
 l.toString
 s=3
@@ -41710,7 +41710,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t3)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t3)
 case 4:k=c
 q=p.dx=A.ai(k.b.U(0,"qurekaLink5"),k.a)
 s=1
@@ -41735,7 +41735,7 @@ n=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 o=$.aV()
 A.a3(n,o,!1)
 m=A.af(new A.a4(n))
-m=A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+m=A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 l=A.br(A.R(["isCustomAdEnabled",a],t.N,t.X))
 l.toString
 s=3
@@ -41745,7 +41745,7 @@ n=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(n,o,!1)
 o=A.af(new A.a4(n))
 s=4
-return A.l(A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$oh)
+return A.l(A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$oh)
 case 4:k=c
 p.at=A.ai(k.b.U(0,"isCustomAdEnabled"),k.a)
 p.X()
@@ -41762,7 +41762,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isAdButtonEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -41772,7 +41772,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rC)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rC)
 case 3:n=c
 q.ax=A.ai(n.b.U(0,"isAdButtonEnabled"),n.a)
 q.X()
@@ -41786,7 +41786,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["showPopup",a],t.N,t.X))
 o.toString
 s=2
@@ -41796,7 +41796,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rY)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rY)
 case 3:n=c
 q.ay=A.ai(n.b.U(0,"showPopup"),n.a)
 q.X()
@@ -41810,7 +41810,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isDirectLink",a],t.N,t.X))
 o.toString
 s=2
@@ -41820,7 +41820,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$oi)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$oi)
 case 3:n=c
 q.ch=A.ai(n.b.U(0,"isDirectLink"),n.a)
 q.X()
@@ -41834,7 +41834,7 @@ j=$.aV()
 A.a3(i,j,!1)
 l=A.af(new A.a4(i))
 s=3
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qp)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qp)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -41870,7 +41870,7 @@ i=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(i,j,!1)
 j=A.af(new A.a4(i))
 s=7
-return A.l(A.ag(j,j.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["isCustomAdEnabled",!1,"qurekaLink1","","qurekaLink2","","qurekaLink3","","qurekaLink4","","qurekaLink5","","isAdButtonEnabled",!1,"showPopup",!1,"isDirectLink",!1,"isCloseButtonAdEnabled",!1,"backQurekaOnly",!0],t.N,t.z)),$async$qp)
+return A.l(A.ag(j,j.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["isCustomAdEnabled",!1,"qurekaLink1","","qurekaLink2","","qurekaLink3","","qurekaLink4","","qurekaLink5","","isAdButtonEnabled",!1,"showPopup",!1,"isDirectLink",!1,"isCloseButtonAdEnabled",!1,"backQurekaOnly",!0],t.N,t.z)),$async$qp)
 case 7:q=!0
 s=1
 break
@@ -41884,7 +41884,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 p=A.af(new A.a4(k))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isExtraScreenEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -41894,7 +41894,7 @@ k=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=3
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rN)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rN)
 case 3:n=c
 l=A.ai(n.b.U(0,"isExtraScreenEnabled"),n.a)
 q.fx=l
@@ -41914,7 +41914,7 @@ m=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 n=$.aV()
 A.a3(m,n,!1)
 l=A.af(new A.a4(m))
-l=A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+l=A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 k=A.br(A.R(["allScreenStatus",o],t.N,t.X))
 k.toString
 s=3
@@ -41924,7 +41924,7 @@ m=(k==null?$.C=$.a6():k).W(0,"[DEFAULT]")
 A.a3(m,n,!1)
 n=A.af(new A.a4(m))
 s=4
-return A.l(A.ag(n,n.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$of)
+return A.l(A.ag(n,n.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$of)
 case 4:j=d
 for(n=j.b,l=j.a,i=0;i<J.bv(A.ai(n.U(0,"allScreenStatus"),l));++i)o[i]=J.W(A.ai(n.U(0,"allScreenStatus"),l),i)
 p.X()
@@ -41941,7 +41941,7 @@ j=$.aV()
 A.a3(i,j,!1)
 l=A.af(new A.a4(i))
 s=3
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qq)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qq)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -41960,7 +41960,7 @@ i=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 A.a3(i,j,!1)
 j=A.af(new A.a4(i))
 s=7
-return A.l(A.ag(j,j.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["isExtraScreenEnabled",!1,"allScreenStatus",A.b([!1,!0,!1],t.HZ)],t.N,t.z)),$async$qq)
+return A.l(A.ag(j,j.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["isExtraScreenEnabled",!1,"allScreenStatus",A.b([!1,!0,!1],t.HZ)],t.N,t.z)),$async$qq)
 case 7:q=!0
 s=1
 break
@@ -41974,7 +41974,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["bannerAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -41984,7 +41984,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rI)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rI)
 case 4:m=c
 q=p.id=A.ai(m.b.U(0,"bannerAdID1"),m.a)
 s=1
@@ -41999,7 +41999,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["interstitialAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -42009,7 +42009,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rQ)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rQ)
 case 4:m=c
 q=p.k1=A.ai(m.b.U(0,"interstitialAdID1"),m.a)
 s=1
@@ -42024,7 +42024,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["nativeAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -42034,7 +42034,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rU)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rU)
 case 4:m=c
 q=p.k2=A.ai(m.b.U(0,"nativeAdID1"),m.a)
 s=1
@@ -42049,7 +42049,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["appOpenAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -42059,7 +42059,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rE)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rE)
 case 4:m=c
 q=p.k3=A.ai(m.b.U(0,"appOpenAdID1"),m.a)
 s=1
@@ -42074,7 +42074,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isGoogle1Enabled",a],t.N,t.X))
 o.toString
 s=2
@@ -42084,7 +42084,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rO)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rO)
 case 3:n=c
 q.go=A.ai(n.b.U(0,"isGoogle1Enabled"),n.a)
 q.X()
@@ -42098,7 +42098,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["bannerAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -42108,7 +42108,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rJ)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rJ)
 case 4:m=c
 q=p.ok=A.ai(m.b.U(0,"bannerAdID2"),m.a)
 s=1
@@ -42123,7 +42123,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["interstitialAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -42133,7 +42133,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rR)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rR)
 case 4:m=c
 q=p.p1=A.ai(m.b.U(0,"interstitialAdID2"),m.a)
 s=1
@@ -42148,7 +42148,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["nativeAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -42158,7 +42158,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rV)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rV)
 case 4:m=c
 q=p.p2=A.ai(m.b.U(0,"nativeAdID2"),m.a)
 s=1
@@ -42173,7 +42173,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["appOpenAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -42183,7 +42183,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rF)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rF)
 case 4:m=c
 q=p.p3=A.ai(m.b.U(0,"appOpenAdID2"),m.a)
 s=1
@@ -42198,7 +42198,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isGoogle2Enabled",a],t.N,t.X))
 o.toString
 s=2
@@ -42208,7 +42208,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rP)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rP)
 case 3:n=c
 q.k4=A.ai(n.b.U(0,"isGoogle2Enabled"),n.a)
 q.X()
@@ -42222,7 +42222,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["facebookBanner",a],t.N,t.X))
 n.toString
 s=3
@@ -42232,7 +42232,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rK)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rK)
 case 4:m=c
 q=p.R8=A.ai(m.b.U(0,"facebookBanner"),m.a)
 s=1
@@ -42247,7 +42247,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["facebookInterstitial",a],t.N,t.X))
 n.toString
 s=3
@@ -42257,7 +42257,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rS)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rS)
 case 4:m=c
 q=p.RG=A.ai(m.b.U(0,"facebookInterstitial"),m.a)
 s=1
@@ -42272,7 +42272,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["facebookNative",a],t.N,t.X))
 n.toString
 s=3
@@ -42282,7 +42282,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rW)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rW)
 case 4:m=c
 q=p.rx=A.ai(m.b.U(0,"facebookNative"),m.a)
 s=1
@@ -42297,7 +42297,7 @@ k=(l==null?$.C=$.a6():l).W(0,"[DEFAULT]")
 l=$.aV()
 A.a3(k,l,!1)
 o=A.af(new A.a4(k))
-o=A.ag(o,o.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+o=A.ag(o,o.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 n=A.br(A.R(["facebookAppOpen",a],t.N,t.X))
 n.toString
 s=3
@@ -42307,7 +42307,7 @@ k=(n==null?$.C=$.a6():n).W(0,"[DEFAULT]")
 A.a3(k,l,!1)
 l=A.af(new A.a4(k))
 s=4
-return A.l(A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rG)
+return A.l(A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rG)
 case 4:m=c
 q=p.ry=A.ai(m.b.U(0,"facebookAppOpen"),m.a)
 s=1
@@ -42322,7 +42322,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isFacebookEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -42332,7 +42332,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$om)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$om)
 case 3:n=c
 q.p4=A.ai(n.b.U(0,"isFacebookEnabled"),n.a)
 q.X()
@@ -42346,7 +42346,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isFixedCountry",a],t.N,t.X))
 o.toString
 s=2
@@ -42356,7 +42356,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$ol)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$ol)
 case 3:n=c
 q.xr=A.ai(n.b.U(0,"isFixedCountry"),n.a)
 q.X()
@@ -42370,7 +42370,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["selectedCountry",a],t.N,t.X))
 o.toString
 s=2
@@ -42380,7 +42380,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$t5)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$t5)
 case 3:n=c
 q.y1=A.ai(n.b.U(0,"selectedCountry"),n.a)
 q.X()
@@ -42397,7 +42397,7 @@ p=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(p,m,!1)
 l=A.af(new A.a4(p))
-l=A.ag(l,l.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+l=A.ag(l,l.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["enabledCountries",q.y2],t.N,t.X))
 o.toString
 s=2
@@ -42407,7 +42407,7 @@ p=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(p,m,!1)
 m=A.af(new A.a4(p))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rM)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rM)
 case 3:n=c
 q.y2=A.ai(n.b.U(0,"enabledCountries"),n.a)
 q.X()
@@ -42421,7 +42421,7 @@ k=$.aV()
 A.a3(j,k,!1)
 m=A.af(new A.a4(j))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qr)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qr)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -42442,7 +42442,7 @@ j=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 A.a3(j,k,!1)
 k=A.af(new A.a4(j))
 s=7
-return A.l(A.ag(k,k.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["isVPNEnabled",!1],t.N,t.z)),$async$qr)
+return A.l(A.ag(k,k.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["isVPNEnabled",!1],t.N,t.z)),$async$qr)
 case 7:q=!0
 s=1
 break
@@ -42456,7 +42456,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isBackAdEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -42466,7 +42466,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$rH)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$rH)
 case 3:n=c
 q.to=A.ai(n.b.U(0,"isBackAdEnabled"),n.a)
 q.X()
@@ -42486,7 +42486,7 @@ o=(p==null?$.C=$.a6():p).W(0,"[DEFAULT]")
 p=$.aV()
 A.a3(o,p,!1)
 n=A.af(new A.a4(o))
-n=A.ag(n,n.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+n=A.ag(n,n.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 m=A.br(A.R(["isVPNEnabled",a],t.N,t.X))
 m.toString
 s=6
@@ -42496,7 +42496,7 @@ o=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 A.a3(o,p,!1)
 p=A.af(new A.a4(o))
 s=7
-return A.l(A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$md)
+return A.l(A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$md)
 case 7:l=c
 q.x2=A.ai(l.b.U(0,"isVPNEnabled"),l.a)
 q.X()
@@ -42510,7 +42510,7 @@ l=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 m=$.aV()
 A.a3(l,m,!1)
 p=A.af(new A.a4(l))
-p=A.ag(p,p.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement")
+p=A.ag(p,p.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement")
 o=A.br(A.R(["isCTRAdEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -42520,7 +42520,7 @@ l=(o==null?$.C=$.a6():o).W(0,"[DEFAULT]")
 A.a3(l,m,!1)
 m=A.af(new A.a4(l))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$og)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$og)
 case 3:n=c
 q.x1=A.ai(n.b.U(0,"isCTRAdEnabled"),n.a)
 q.X()
@@ -42534,7 +42534,7 @@ k=$.aV()
 A.a3(j,k,!1)
 m=A.af(new A.a4(j))
 s=3
-return A.l(A.ag(m,m.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").bb(0),$async$qn)
+return A.l(A.ag(m,m.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").bb(0),$async$qn)
 case 3:n=b
 s=J.W(n.b.d,"data")!=null?4:6
 break
@@ -42587,7 +42587,7 @@ j=(m==null?$.C=$.a6():m).W(0,"[DEFAULT]")
 A.a3(j,k,!1)
 k=A.af(new A.a4(j))
 s=7
-return A.l(A.ag(k,k.ga9().a7("DynamicIslandAdmin")).a1(0,"AdManagement").mn(0,A.R(["isGoogle1Enabled",!1],t.N,t.z)),$async$qn)
+return A.l(A.ag(k,k.ga9().a7("IndependenceAdmin")).a1(0,"AdManagement").mn(0,A.R(["isGoogle1Enabled",!1],t.N,t.z)),$async$qn)
 case 7:q=!0
 s=1
 break
@@ -42633,7 +42633,7 @@ A.Or.prototype={}
 A.o8.prototype={
 aw(){return new A.Pi(B.q)}}
 A.Pi.prototype={
-L(a,b){var s=this,r=null,q=t.p,p=A.aN(r,A.cj(A.b([new A.cy(B.aV,A.bt("Dynamic Island Admin: The Code Red",r,r,r,A.aoX(r,r,r,r,r,r,r,"SignikaNegative",r,r,r,r,A.R([B.hj,new A.c1("47f35620feb824a761a3af42dc4022d44432187756659abfafe2a242e1af0216",191400),B.hk,new A.c1("c0f3ef49c7606c63d9058434a998bc625b39cc55d85ba7c5b806bd3f159ed2a2",191728),B.hl,new A.c1("7b7f3308ad1d6721cf6cc49028dec5def08a03f03a3dc1e3d619957818bfe65b",191852),B.hm,new A.c1("3bc7e5c065e04c6df1c3784cc690edc06f0e6a4c7e724bb50a72ee63e1b7e5c0",191828),B.hn,new A.c1("828e735a1693bcee79ab2d70a60a8cf04c75bc718543518d2d944b02f22d65f9",191872)],t.gm,t.Ks),r,r,r,r,r,r,B.Oj,r),r,r),r),B.Bd,B.JW,s.ot(0,0,"Ad Management",B.C4,B.nc,B.fZ),s.ot(0,1,"Screen Management",B.Cj,B.n3,B.nb),s.ot(0,2,"Qureka Management",B.C6,B.nd,B.ne),s.ot(0,3,"More Apps",B.Cl,B.n5,B.cL),s.ot(0,4,"Ad Sequence",B.Ci,B.As,B.Aw)],q),B.ch,B.m,B.o),B.k,r,r,B.x6,r,r,r,r,r,r,r,300),o=s.d
+L(a,b){var s=this,r=null,q=t.p,p=A.aN(r,A.cj(A.b([new A.cy(B.aV,A.bt("Diwali : 1 Step Above",r,r,r,A.aoX(r,r,r,r,r,r,r,"SignikaNegative",r,r,r,r,A.R([B.hj,new A.c1("47f35620feb824a761a3af42dc4022d44432187756659abfafe2a242e1af0216",191400),B.hk,new A.c1("c0f3ef49c7606c63d9058434a998bc625b39cc55d85ba7c5b806bd3f159ed2a2",191728),B.hl,new A.c1("7b7f3308ad1d6721cf6cc49028dec5def08a03f03a3dc1e3d619957818bfe65b",191852),B.hm,new A.c1("3bc7e5c065e04c6df1c3784cc690edc06f0e6a4c7e724bb50a72ee63e1b7e5c0",191828),B.hn,new A.c1("828e735a1693bcee79ab2d70a60a8cf04c75bc718543518d2d944b02f22d65f9",191872)],t.gm,t.Ks),r,r,r,r,r,r,B.Oj,r),r,r),r),B.Bd,B.JW,s.ot(0,0,"Ad Management",B.C4,B.nc,B.fZ),s.ot(0,1,"Screen Management",B.Cj,B.n3,B.nb),s.ot(0,2,"Qureka Management",B.C6,B.nd,B.ne),s.ot(0,3,"More Apps",B.Cl,B.n5,B.cL),s.ot(0,4,"Ad Sequence",B.Ci,B.As,B.Aw)],q),B.ch,B.m,B.o),B.k,r,r,B.x6,r,r,r,r,r,r,r,300),o=s.d
 if(o===0)o=B.wG
 else if(o===1)o=B.In
 else if(o===2)o=B.I5
@@ -42655,7 +42655,7 @@ A.on.prototype={
 aw(){var s=$.bi()
 return new A.PS(new A.d6(B.a1,s),new A.d6(B.a1,s),B.q)}}
 A.PS.prototype={
-L(a,b){var s,r,q=this,p=null,o=A.aM(20),n=A.b([new A.ct(5,B.as,B.b0,new A.k(0,0),150)],t.V),m=A.amG(A.aM(12),A.asf("assets/logo1.png",p,150)),l=A.d5(A.eD(A.bt("Dynamic Island Admin: The Code Red",p,p,p,A.cO(p,p,B.NK),p,p),p,p),p,1/0),k=A.aM(12)
+L(a,b){var s,r,q=this,p=null,o=A.aM(20),n=A.b([new A.ct(5,B.as,B.b0,new A.k(0,0),150)],t.V),m=A.amG(A.aM(12),A.asf("assets/logo.jpg",p,150)),l=A.d5(A.eD(A.bt("Diwali : 1 Step Above",p,p,p,A.cO(p,p,B.NK),p,p),p,p),p,1/0),k=A.aM(12)
 k=A.aN(p,A.dn(q.d,B.CJ,!1,p),B.k,p,p,new A.ay(B.Q,p,p,k,p,p,B.t),p,p,p,p,B.cO,p,p,p)
 s=A.aM(12)
 r=q.f
@@ -43475,7 +43475,7 @@ $0(){},
 $S:0}
 A.Jp.prototype={
 L(a,b){var s=A.anP(null,B.br)
-return A.asy(!0,null,A.R(["/",new A.a3h(),"/fakeChat.homepage.7.ocean.xyz",new A.a3i()],t.N,t.Ab),new A.Xm(null),s,"Dynamic Island Admin: The Code Red")}}
+return A.asy(!0,null,A.R(["/",new A.a3h(),"/fakeChat.homepage.7.ocean.xyz",new A.a3i()],t.N,t.Ab),new A.Xm(null),s,"Diwali : 1 Step Above")}}
 A.a3h.prototype={
 $1(a){return B.GG},
 $S:399}
@@ -78622,7 +78622,7 @@ B.hc=new A.nR(0,"none")
 B.nz=new A.nR(1,"low")
 B.nA=new A.nR(2,"medium")
 B.nB=new A.nR(3,"high")
-B.BL=new A.rc("AIzaSyAyjQwdG1bkBGq8fLxiiVxBDi18hS31LGs","1:1089107157351:web:7ee780c98e4e2eeb83cfc2","1089107157351","dynamicisland-28e7d","dynamicisland-28e7d.firebaseapp.com",null,"dynamicisland-28e7d.appspot.com",null,null,null,null,null,null,null)
+B.BL=new A.rc("AIzaSyAzhlS2J3HJfncTLs0QvMzGByrLR1eAOxg","1:196014575835:web:4ea3ebac8918dbb692fcfe","196014575835","independence-cb6d7","independence-cb6d7.firebaseapp.com",null,"independence-cb6d7.appspot.com",null,null,null,null,null,null,null)
 B.v=new A.O(0,0)
 B.BM=new A.HY(B.v,B.v)
 B.nC=new A.xI(0,"tight")
